@@ -1,0 +1,3 @@
+/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/CMakeFiles/rebuild_cache.dir
+/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/CMakeFiles/edit_cache.dir
+/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/CMakeFiles/segment.dir

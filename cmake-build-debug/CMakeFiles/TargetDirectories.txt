@@ -1,0 +1,4 @@
+/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/cmake-build-debug/CMakeFiles/segment.dir
+/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/cmake-build-debug/CMakeFiles/textrank.dir

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ECLAT"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="segment">
+				<Option output="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/segment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/jsoncpp/1.9.1/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 segment"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="segment/fast">
+				<Option output="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/segment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/jsoncpp/1.9.1/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 segment/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="textrank">
+				<Option output="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/textrank" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/jsoncpp/1.9.1/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 textrank"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="textrank/fast">
+				<Option output="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/textrank" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/jsoncpp/1.9.1/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 textrank/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhaoze/Documents/Corel\ VideoStudio\ Pro/My\ Projects/textrank_text/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/segment.cpp">
+			<Option target="segment"/>
+		</Unit>
+		<Unit filename="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/src/main.cpp">
+			<Option target="textrank"/>
+		</Unit>
+		<Unit filename="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/src/sentence_rank.cpp">
+			<Option target="textrank"/>
+		</Unit>
+		<Unit filename="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/src/sentence_rank.h">
+			<Option target="textrank"/>
+		</Unit>
+		<Unit filename="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/src/text_rank.cpp">
+			<Option target="textrank"/>
+		</Unit>
+		<Unit filename="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/src/text_rank.h">
+			<Option target="textrank"/>
+		</Unit>
+		<Unit filename="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/src/text_utils.cpp">
+			<Option target="segment"/>
+			<Option target="textrank"/>
+		</Unit>
+		<Unit filename="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/src/text_utils.h">
+			<Option target="segment"/>
+			<Option target="textrank"/>
+		</Unit>
+		<Unit filename="/Users/zhaoze/Documents/Corel VideoStudio Pro/My Projects/textrank_text/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
